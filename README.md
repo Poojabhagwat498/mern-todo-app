@@ -97,7 +97,7 @@ mern-todo-app
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/yourusername/mern-todo-app.git
+git clone https://github.com/Poojabhagwat498/mern-todo-app.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
@@ -154,7 +154,7 @@ Steps to contribute:
 **Pooja Bhagwat**
 
 GitHub:
-https://github.com/Poojabhagwat498
+https://github.com/Poojabhagwat498/mern-todo-app.git
 
 LinkedIn:
 https://www.linkedin.com/in/pooja-bhagwat-33447a334
